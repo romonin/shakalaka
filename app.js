@@ -1,13 +1,3 @@
-console.log("Hi WORLD");
-console.log("Hi WORLD");
-console.log("Hi WORLD");
-console.log("Hi WORLD");
-console.log("Hi WORLD");
-console.log("Hi WORLD");
-console.log("Hi WORLD");
-console.log("Hi WORLD");
-console.log("Hi WORLD");
-console.log("Hi WORLD");
 console.log("HELLO WORLD");
 console.log("HELLO WORLD");
 console.log("HELLO WORLD");
