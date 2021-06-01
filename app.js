@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 console.log("Hi WORLD");
 console.log("Hi WORLD");
 console.log("Hi WORLD");
@@ -9,7 +8,6 @@ console.log("Hi WORLD");
 console.log("Hi WORLD");
 console.log("Hi WORLD");
 console.log("Hi WORLD");
-=======
 console.log("HELLO WORLD");
 console.log("HELLO WORLD");
 console.log("HELLO WORLD");
@@ -21,4 +19,3 @@ console.log("HELLO WORLD");
 console.log("HELLO WORLD");
 console.log("HELLO WORLD");
 console.log("HELLO WORLD");
->>>>>>> 46244469f0799538cbff0a66a4037ab2c65d727e
